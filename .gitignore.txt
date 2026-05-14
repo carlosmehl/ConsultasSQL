@@ -1,0 +1,23 @@
+# Delphi compiled files
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.identcache
+*.local
+*.stat
+
+# Delphi local project settings
+*.dproj.local
+
+# Build folders
+Win32/
+Win64/
+Debug/
+Release/
+
+# Backup files
+*.~*
+
+# Logs
+*.log
